@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gimsara Kulathunga 
 #### I am undergraduate of University of moratuwa.
-![I am undergraduate of University of moratuwa.](https://pbs.twimg.com/profile_images/1106902874821410817/3hwzLz_u_400x400.jpg)
+![I am undergraduate of University of moratuwa.](https://github.com/gima1997/Gims/blob/main/gimsara.png)
 
 I'm a 24 year old and nowadays I am volunteering as a director of planning in IEEE Computer Society Chapter in University of Moratuwa student branch. As well as I worked as a member of web and technology pillar in MoraSpirits Initiative.MoraSpirit initiative is a media platform for all the sri lankan university sports. I describe myself as a passionate developer who loves coding,web platform and learning new technology.
 Aside from my studies, I like to write 📝 an article on medium platforms. That helps me to learn a ton of new stuff, grow as a developer Also I enjoy joining a social project such as beach cleaning projects 🏖 , voice donations projects, and education projects. because I think, soft skills are very important to me to be a better person with good attitudes.
