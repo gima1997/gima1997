@@ -1,12 +1,11 @@
 # Hi there! 👋  
-![Profile views](https://gpvc.arturio.dev/gima1997)  
 
 ## I'm Gimsara Kulathunga | Software Engineer  
 
 ![Coding](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)  
 
 I’m a **Software Engineer at IFS** in Colombo, Sri Lanka, currently working on enterprise-scale projects for **the world's largest airline**.  
-I specialize in **full-stack enterprise application development** with strong expertise in **Java EE, JSP, Servlets, PL/SQL, Docker, and Kubernetes**.  
+I specialize in **full-stack enterprise application development** with strong expertise in **React.js, Java EE, JSP, Servlets, PL/SQL, Docker, and Kubernetes**.  
 
 With a track record of delivering high-quality, scalable software solutions, I combine **technical expertise** with **problem-solving skills** to help businesses improve efficiency and achieve digital transformation.  
 I am open to **remote, hybrid, and on-site opportunities** in **New Zealand**.  
@@ -15,7 +14,7 @@ I am open to **remote, hybrid, and on-site opportunities** in **New Zealand**.
 
 ## 🚀 Currently
 - 💼 **Working on:** Enterprise software solutions for aviation maintenance systems  
-- 🌱 **Learning:** ASP.NET Core, Azure Cloud, React Js 
+- 🌱 **Learning:** ASP.NET Core, Azure Cloud, React.js 
 - 📚 **Exploring:** Microservices architecture & cloud-native development  
 - 🏆 **Goal for 2025:** Master cloud technologies and lead a large-scale software project  
 
@@ -31,7 +30,7 @@ I am open to **remote, hybrid, and on-site opportunities** in **New Zealand**.
 
 ## 💡 Core Competencies
 - **Languages:** Java, JavaScript, PL/SQL, C#  
-- **Web Technologies:** Angular, ASP.NET Core, JSP, HTML, CSS, React  
+- **Web Technologies:** React.js, ASP.NET Core, JSP, HTML, CSS, React  
 - **Databases:** Oracle, MySQL  
 - **DevOps & Tools:** Docker, Kubernetes, Git, Bitbucket, Postman  
 - **Architecture & Patterns:** MVC, REST APIs, Microservices  
