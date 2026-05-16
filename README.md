@@ -1,63 +1,78 @@
-# Hi there! 👋  
+<!-- Hero -->
 
-## I'm Gimsara Kulathunga | Software Engineer  
+# Gimsara Kulathunga ✦ Software Engineer (Seeking Junior / Intermediate roles)
 
-![Coding](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)  
+Practical software engineer with hands-on experience in aviation maintenance systems and ERP. I enjoy shipping features, learning from teammates, and improving product reliability. Looking for junior or intermediate roles where I can contribute immediately and grow quickly.
 
-I’m a **Software Engineer at IFS** in Colombo, Sri Lanka, currently working on enterprise-scale projects for **the world's largest airline**.  
-I specialize in **full-stack enterprise application development** with strong expertise in **React.js, Java EE, JSP, Servlets, PL/SQL, Docker, and Kubernetes**.  
-
-With a track record of delivering high-quality, scalable software solutions, I combine **technical expertise** with **problem-solving skills** to help businesses improve efficiency and achieve digital transformation.  
-I am open to **remote, hybrid, and on-site opportunities** in **New Zealand**.  
+- Open to New Zealand roles (remote / hybrid / on-site)
+- Email: gimsara997@gmail.com • [GitHub](https://github.com/gima1997) • [LinkedIn](https://www.linkedin.com/in/gimsara-kulathunga-860591163/) • [Blog](https://medium.com/@gimsara)
 
 ---
 
-## 🚀 Currently
-- 💼 **Working on:** Enterprise software solutions for aviation maintenance systems  
-- 🌱 **Learning:** ASP.NET Core, Azure Cloud, React.js 
-- 📚 **Exploring:** Microservices architecture & cloud-native development  
-- 🏆 **Goal for 2025:** Master cloud technologies and lead a large-scale software project  
+![Top Languages](https://img.shields.io/github/languages/top/gima1997?color=blue&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/gima1997?style=for-the-badge)
+
+## Quick Pitch
+
+- Domain experience: Aviation maintenance systems and ERP (IFS) — building dependable enterprise features.
+- Strengths: backend APIs, frontend components for operational users, database work, and reliable CI/CD.
+- Tech: Java, ASP.NET Core, React, PL/SQL, Docker, Kubernetes, Oracle/MySQL.
 
 ---
 
-## 🏅 Career Highlights
-- **IFS – Aviation Maintenance System:** Developed and optimized modules in a mission-critical system used by **the world's largest airline**, enabling thousands of engineers and planners to maintain fleet operations efficiently.  
-- **IEEE Computer Society – University of Moratuwa:** Led as Chairman, managing a 20+ member team, organizing technical events, and increasing member engagement.  
-- **MoraSpirit Initiative:** Built and maintained tech platforms serving Sri Lankan university sports coverage.  
-- **Tech Blogger:** Published articles on Medium covering software engineering best practices and emerging technologies.  
+## Impact & Experience
+
+- Improved throughput and maintainability of an aviation maintenance platform used by operational teams; simplified deployments and reduced manual work.
+- Organized and contributed to IEEE Computer Society activities at University of Moratuwa — coordinated technical events and mentorship programs.
+- Built MoraSpirit platform to scale university sports coverage and streamline content publishing.
 
 ---
 
-## 💡 Core Competencies
-- **Languages:** Java, JavaScript, PL/SQL, C#  
-- **Web Technologies:** React.js, ASP.NET Core, JSP, HTML, CSS, React  
-- **Databases:** Oracle, MySQL  
-- **DevOps & Tools:** Docker, Kubernetes, Git, Bitbucket, Postman  
-- **Architecture & Patterns:** MVC, REST APIs, Microservices  
-- **Methodologies:** Agile, Scrum, CI/CD Pipelines  
+## Projects (select)
+
+- **Aviation Maintenance System (IFS)** — Backend & full-stack engineer
+  - Tech: Java EE, ASP.NET Core, PL/SQL, React
+  - Role: Implemented backend features and frontend views used by operations teams.
+
+- **MoraSpirit** — Full-stack contributor
+  - Tech: React, Node, ASP.NET Core, containers
+  - Role: Built public-facing services and internal tooling to support content operations.
 
 ---
 
-## 📌 Why Hire Me?
-✔ Proven experience in **enterprise-grade software development**  
-✔ Strong background in **both back-end & front-end technologies**  
-✔ Ability to **quickly adapt** to new tech stacks and project requirements  
-✔ **Leadership experience** in managing tech teams & delivering results  
-✔ Passion for **continuous learning** and keeping up with emerging trends  
+## Skills
+
+- Languages: Java, C#, JavaScript, PL/SQL
+- Frontend: React.js, HTML, CSS
+- Backend: Java EE, ASP.NET Core, REST API design
+- Databases: Oracle, MySQL
+- DevOps: Docker, Kubernetes, CI/CD, Git
+
+---
+
+## How I Work
+
+- Hands-on collaborator: pair-programming, code reviews, and cross-team communication.
+- Quality-first: automated tests, clear CI pipelines, and small iterative releases.
+- Growth mindset: open to mentorship and quickly adopting new tools and patterns.
+
+---
+
+## Roles I'm Seeking
+
+- Junior Software Engineer or Intermediate Software Engineer roles where I can:
+  - Build features and fixes with guidance from senior engineers.
+  - Contribute to CI/CD, testing, and operational stability.
+  - Learn product & domain knowledge to grow into higher responsibility roles.
+
+---
+
+## Contact
+
+Email: gimsara997@gmail.com — happy to discuss openings or a quick chat on LinkedIn.
 
 ---
 
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gima1997&theme=blue-green)](https://github.com/gima1997/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gima1997&theme=blue-green)](https://github.com/gima1997/github-readme-streak-stats) |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
----
-
-## 📫 Connect with Me  
-[<img src="https://img.icons8.com/color/144/000000/github--v1.png" alt='GitHub' height='50'>](https://github.com/gima1997)  
-[<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt='LinkedIn' height='50'>](https://www.linkedin.com/in/gimsara-kulathunga-860591163/)  
-[<img src="https://img.icons8.com/color/144/000000/facebook-circled--v5.png" alt='Facebook' height='50'>](https://www.facebook.com/gimsara.kulathunga)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='StackOverflow' height='50'>](https://stackoverflow.com/users/14639075)  
-[<img src="https://img.icons8.com/color/144/000000/internet--v2.png" alt='Website' height='50'>](http://bit.ly/iam-gimsara)  
-[<img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt='Medium' height='50'>](https://medium.com/@gimsara)  
-
-📧 **Email:** gimsara997@gmail.com  
+If you'd like any edits—tone, specific role emphasis, or short resume-style bullets—tell me which sections to tweak.
