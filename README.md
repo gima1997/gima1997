@@ -1,6 +1,6 @@
 <!-- Hero -->
 
-# Gimsara Kulathunga ✦ Software Engineer (Seeking Junior / Intermediate roles)
+# Gimsara Kulathunga ✦ Software Engineer
 
 Practical software engineer with hands-on experience in aviation maintenance systems and ERP. I enjoy shipping features, learning from teammates, and improving product reliability. Looking for junior or intermediate roles where I can contribute immediately and grow quickly.
 
@@ -9,9 +9,16 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-![Top Languages](https://img.shields.io/github/languages/top/gima1997?color=blue&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/gima1997?style=for-the-badge)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding animation" width="160" />
+</p>
 
-## Quick Pitch
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gima1997&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gima1997&layout=compact&theme=blue-green" alt="Top Languages" />
+</p>
+
+## Quick Pitch 🚀
 
 - Domain experience: Aviation maintenance systems and ERP (IFS) — building dependable enterprise features.
 - Strengths: backend APIs, frontend components for operational users, database work, and reliable CI/CD.
@@ -19,7 +26,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## Impact & Experience
+## Impact & Experience 💡
 
 - Improved throughput and maintainability of an aviation maintenance platform used by operational teams; simplified deployments and reduced manual work.
 - Organized and contributed to IEEE Computer Society activities at University of Moratuwa — coordinated technical events and mentorship programs.
@@ -27,7 +34,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## Projects (select)
+## Projects (select) 🔧
 
 - **Aviation Maintenance System (IFS)** — Backend & full-stack engineer
   - Tech: Java EE, ASP.NET Core, PL/SQL, React
@@ -39,7 +46,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## Skills
+## Skills 🛠️
 
 - Languages: Java, C#, JavaScript, PL/SQL
 - Frontend: React.js, HTML, CSS
@@ -49,7 +56,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## How I Work
+## How I Work 🤝
 
 - Hands-on collaborator: pair-programming, code reviews, and cross-team communication.
 - Quality-first: automated tests, clear CI pipelines, and small iterative releases.
@@ -57,7 +64,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## Roles I'm Seeking
+## Roles I'm Seeking 🎯
 
 - Junior Software Engineer or Intermediate Software Engineer roles where I can:
   - Build features and fixes with guidance from senior engineers.
@@ -66,13 +73,10 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 
 ---
 
-## Contact
+## Contact 📫
 
 Email: gimsara997@gmail.com — happy to discuss openings or a quick chat on LinkedIn.
 
 ---
-
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gima1997&theme=blue-green)](https://github.com/gima1997/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gima1997&theme=blue-green)](https://github.com/gima1997/github-readme-streak-stats) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 If you'd like any edits—tone, specific role emphasis, or short resume-style bullets—tell me which sections to tweak.
