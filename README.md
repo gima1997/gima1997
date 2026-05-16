@@ -10,12 +10,17 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="coding animation" width="160" />
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="coding animation" width="160" />
 </p>
 
 <p align="center">
+  <!-- Primary: GitHub Readme Stats; Fallback: shields.io badges for networks that block Vercel -->
   <img src="https://github-readme-stats.vercel.app/api?username=gima1997&show_icons=true&theme=blue-green" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gima1997&layout=compact&theme=blue-green" alt="Top Languages" />
+  <br/>
+  <img src="https://img.shields.io/github/stars/gima1997?style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/gima1997?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/languages/top/gima1997?style=for-the-badge&color=blue" alt="Top Language" />
 </p>
 
 ## Quick Pitch 🚀
