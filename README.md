@@ -10,7 +10,7 @@ Practical software engineer with hands-on experience in aviation maintenance sys
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="coding animation" width="160" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9ic3Q3Y2tzdHRsZDJ3a2wxM3E4aXUwZWlsODNxYncyaGFxa2hidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="coding animation" width="160" />
 </p>
 
 <p align="center">
